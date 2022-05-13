@@ -1,0 +1,16 @@
+C:\Users\grsk2\source\repos\Techbank\Techbank\bin\Debug\net5.0\Techbank.exe
+C:\Users\grsk2\source\repos\Techbank\Techbank\bin\Debug\net5.0\Techbank.deps.json
+C:\Users\grsk2\source\repos\Techbank\Techbank\bin\Debug\net5.0\Techbank.runtimeconfig.json
+C:\Users\grsk2\source\repos\Techbank\Techbank\bin\Debug\net5.0\Techbank.runtimeconfig.dev.json
+C:\Users\grsk2\source\repos\Techbank\Techbank\bin\Debug\net5.0\Techbank.dll
+C:\Users\grsk2\source\repos\Techbank\Techbank\bin\Debug\net5.0\ref\Techbank.dll
+C:\Users\grsk2\source\repos\Techbank\Techbank\bin\Debug\net5.0\Techbank.pdb
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\Techbank.csproj.AssemblyReference.cache
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\Techbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\Techbank.AssemblyInfoInputs.cache
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\Techbank.AssemblyInfo.cs
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\Techbank.csproj.CoreCompileInputs.cache
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\Techbank.dll
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\ref\Techbank.dll
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\Techbank.pdb
+C:\Users\grsk2\source\repos\Techbank\Techbank\obj\Debug\net5.0\Techbank.genruntimeconfig.cache

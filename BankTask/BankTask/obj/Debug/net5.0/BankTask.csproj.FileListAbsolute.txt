@@ -1,0 +1,16 @@
+C:\Users\grsk2\source\repos\BankTask\BankTask\bin\Debug\net5.0\BankTask.exe
+C:\Users\grsk2\source\repos\BankTask\BankTask\bin\Debug\net5.0\BankTask.deps.json
+C:\Users\grsk2\source\repos\BankTask\BankTask\bin\Debug\net5.0\BankTask.runtimeconfig.json
+C:\Users\grsk2\source\repos\BankTask\BankTask\bin\Debug\net5.0\BankTask.runtimeconfig.dev.json
+C:\Users\grsk2\source\repos\BankTask\BankTask\bin\Debug\net5.0\BankTask.dll
+C:\Users\grsk2\source\repos\BankTask\BankTask\bin\Debug\net5.0\ref\BankTask.dll
+C:\Users\grsk2\source\repos\BankTask\BankTask\bin\Debug\net5.0\BankTask.pdb
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\BankTask.csproj.AssemblyReference.cache
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\BankTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\BankTask.AssemblyInfoInputs.cache
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\BankTask.AssemblyInfo.cs
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\BankTask.csproj.CoreCompileInputs.cache
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\BankTask.dll
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\ref\BankTask.dll
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\BankTask.pdb
+C:\Users\grsk2\source\repos\BankTask\BankTask\obj\Debug\net5.0\BankTask.genruntimeconfig.cache

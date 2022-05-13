@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTask", "BankTask\BankTask.csproj", "{4D2E8412-0614-4897-9227-7F1DAAD562D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Banktask.Services", "Banktask.Services", "{93965066-32A7-4043-8E02-44E1EFCA85BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Banktask.", "Banktask.", "{00E5D387-10B0-4FE0-B496-4841783A6913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2E8412-0614-4897-9227-7F1DAAD562D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2E8412-0614-4897-9227-7F1DAAD562D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2E8412-0614-4897-9227-7F1DAAD562D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2E8412-0614-4897-9227-7F1DAAD562D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661B13E3-95CC-4BDA-9600-E867BEFB8D12}
+	EndGlobalSection
+EndGlobal
